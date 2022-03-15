@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Born</h1>
-<h3 align="center">I build awesome web apps using <a href="https://coldbox.org/">ColdBox</a> and <a href="https://www.lucee.org/">Lucee</a></h3>
+<h3 align="center">I build awesome web apps with <a href="https://coldbox.org/">ColdBox</a> and <a href="https://www.lucee.org/">Lucee</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelborn&label=Profile%20views&color=0e75b6&style=flat" alt="michaelborn" /> </p>
 

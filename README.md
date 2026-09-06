@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/michaelborn_me" target="blank"><img src="https://img.shields.io/twitter/follow/michaelborn_me?logo=twitter&style=for-the-badge" alt="michaelborn_me" /></a> </p>
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Typescript**
 
 - 🤝 I’m looking for help with [cfPlaid](https://github.com/michaelborn/cfPlaid)
 
 - 📝 I regularly write articles on [https://michaelborn.me](https://michaelborn.me)
 
-- 💬 Ask me about **CFML, ColdBox and Vue**
+- 💬 Ask me about **Rest APIs, ColdBox MVC and Vue**
 
 - 📄 Know about my experiences [https://michaelborn.me/about](https://michaelborn.me/about)
 

@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 🤝 I’m looking for help with [cfPlaid](https://github.com/michaelborn/cfPlaid)
-
 - 📝 I regularly write articles on [https://michaelborn.me](https://michaelborn.me)
 
-- 💬 Ask me about **Rest APIs, ColdBox MVC and Vue**
-
-- 📄 Know about my experiences [https://michaelborn.me/about](https://michaelborn.me/about)
+- 💬 Ask me about **Elasticsearch and TDD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
